@@ -5,3 +5,8 @@ html, body {
 
   height: 100%;
 }
+
+@font-face {
+  font-family: myfont;
+  src: url("/assets/fonts/ChessType.ttf") format("truetype");
+}
